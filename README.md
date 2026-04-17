@@ -134,7 +134,7 @@ For issues, questions, or support, please contact the authors:
 **Divyesh Hari**
 - 📧 Email: divyesh02208@gmail.com
 - 💻 GitHub: [DIVYESH-HARI](https://github.com/DIVYESH-HARI)
-- 🛠️ LinkedIn: [@divyesh_hari](www.linkedin.com/in/divyesh-hari-b65877334)
+- 🛠️ LinkedIn: [@divyesh_hari](https://www.linkedin.com/in/divyesh-hari-b65877334)
 
 **Vijaya Karthick**
 - 📧 Email: vkr3056@gmail.com
